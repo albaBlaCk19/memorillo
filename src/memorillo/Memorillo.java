@@ -19,6 +19,8 @@ public class Memorillo {
     public static void main(String[] args) {
         // TODO code application logic here
         Vista interfaz = new Vista();
+        
+        System.out.println("ola");
     }
     
 }
